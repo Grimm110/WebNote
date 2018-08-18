@@ -521,7 +521,7 @@ FROM  emp;
 
 ​	SELECT   *   FROM  emp
 
-  	WHERE   deptId=10  AND  sex=0 ;
+​	WHERE   deptId=10  AND  sex=0 ;
 
 练习：查询出工资小于6000的男员工所有信息
 
